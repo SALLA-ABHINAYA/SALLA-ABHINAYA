@@ -20,5 +20,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
+# My Certifications 📜 🎓 ✔️
+Google Cloud career readiness Data Analyst track - By Google cloud <br>
+[Share Data Through the Art of Visualization](https://coursera.org/share/9810a775bf08e2b3b5bfaaa975782b41) - By Coursera <br>
+[Prepare Data for Exploration](https://coursera.org/share/516fa7d10e7b719e0801d977206ee275) - By Coursera
 
